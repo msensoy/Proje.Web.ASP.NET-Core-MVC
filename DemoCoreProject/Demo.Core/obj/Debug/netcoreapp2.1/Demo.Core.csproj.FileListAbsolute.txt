@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.deps.json
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Northwind.DAL.deps.json
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Northwind.DAL.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Northwind.DAL.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Northwind.Entities.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Core.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\bin\Debug\netcoreapp2.1\Demo.Northwind.Entities.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.DAL\obj\Debug\netcoreapp2.1\Demo.Northwind.DAL.pdb

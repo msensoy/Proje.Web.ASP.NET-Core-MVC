@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Demo.Northwind.Entities.deps.json
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Demo.Northwind.Entities.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Demo.Northwind.Entities.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Demo.Core.pdb
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.dll
+C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Northwind.Entities\obj\Debug\netcoreapp2.1\Demo.Northwind.Entities.pdb
