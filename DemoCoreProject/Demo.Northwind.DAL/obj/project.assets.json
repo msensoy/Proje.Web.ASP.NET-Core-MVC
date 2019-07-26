@@ -912,6 +912,9 @@
       "Demo.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
         "compile": {
           "bin/placeholder/Demo.Core.dll": {}
         },
@@ -3508,11 +3511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj",
       "projectName": "Demo.Northwind.DAL",
-      "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj",
+      "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.DAL\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3530,11 +3533,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj"
             },
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj"
             }
           }
         }

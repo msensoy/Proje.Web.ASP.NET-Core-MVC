@@ -912,6 +912,9 @@
       "Demo.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
         "compile": {
           "bin/placeholder/Demo.Core.dll": {}
         },
@@ -3526,11 +3529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj",
       "projectName": "Demo.Northwind.BLL",
-      "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj",
+      "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.BLL\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3548,8 +3551,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.DAL\\Demo.Northwind.DAL.csproj"
             }
           }
         }

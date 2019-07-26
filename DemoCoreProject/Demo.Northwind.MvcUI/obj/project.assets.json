@@ -4619,6 +4619,9 @@
       "Demo.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
         "compile": {
           "bin/placeholder/Demo.Core.dll": {}
         },
@@ -12600,6 +12603,7 @@
       "Demo.Northwind.Entities >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
+      "Microsoft.EntityFrameworkCore >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1"
     ]
@@ -12611,11 +12615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.MvcUI\\Demo.Northwind.MvcUI.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.MvcUI\\Demo.Northwind.MvcUI.csproj",
       "projectName": "Demo.Northwind.MvcUI",
-      "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.MvcUI\\Demo.Northwind.MvcUI.csproj",
+      "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.MvcUI\\Demo.Northwind.MvcUI.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.MvcUI\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.MvcUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12633,14 +12637,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Core\\Demo.Core.csproj"
             },
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.BLL\\Demo.Northwind.BLL.csproj"
             },
-            "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\GitHub\\ASP.NET-Core-MVC\\DemoCoreProject\\Demo.Northwind.Entities\\Demo.Northwind.Entities.csproj"
             }
           }
         }
@@ -12664,6 +12668,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.2, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

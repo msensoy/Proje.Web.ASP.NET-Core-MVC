@@ -9,3 +9,12 @@ C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\
 C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.csproj.CopyComplete
 C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.dll
 C:\Users\TOSHIBA\source\repos\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.pdb
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\obj\Debug\netcoreapp2.1\Demo.Core.pdb
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.deps.json
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.dll
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Core\bin\Debug\netcoreapp2.1\Demo.Core.pdb
