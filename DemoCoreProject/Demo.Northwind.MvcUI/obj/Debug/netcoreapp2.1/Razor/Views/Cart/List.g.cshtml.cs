@@ -110,7 +110,7 @@ namespace AspNetCore
             WriteLiteral("</td>\r\n            <td class=\"text-right\">");
             EndContext();
             BeginContext(623, 190, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb46c172d46949b8ae12c1079a92e59f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34c8d600c77f492dad7c42ed4bd3e6cc", async() => {
                 BeginContext(744, 65, true);
                 WriteLiteral("<span class=\"glyphicon glyphicon-remove\"></span> remove from cart");
                 EndContext();
@@ -166,7 +166,7 @@ namespace AspNetCore
             WriteLiteral("</strong>\r\n            </h3>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td> </td>\r\n        <td> </td>\r\n        <td> </td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(1210, 187, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4d7159d2e18841418052021c2a47f155", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "096453ae20db4b8aa0b7493c38abc9e7", async() => {
                 BeginContext(1288, 105, true);
                 WriteLiteral("\r\n                <span class=\"glyphicon glyphicon-shopping-cart\"></span> Continue Shopping\r\n            ");
                 EndContext();
@@ -191,7 +191,7 @@ namespace AspNetCore
             WriteLiteral("\r\n        </td>\r\n        <td class=\"text-right\">\r\n            ");
             EndContext();
             BeginContext(1459, 184, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "413ea4c345be4cdfb5fef95b40df40e1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "260db0e467ef4872a9c210be6b845f70", async() => {
                 BeginContext(1537, 102, true);
                 WriteLiteral("\r\n                <span class=\"glyphicon glyphicon-shopping-play\"></span> Go To Checkout\r\n            ");
                 EndContext();

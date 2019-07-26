@@ -33,7 +33,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Your Cart <span class="caret"></span></a>
-                           
+                            @await Component.InvokeAsync("CartSummary")
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
@@ -41,7 +41,7 @@
         </nav>
     </div>
     <div class="col-md-2">
-        @*@await Component.InvokeAsync("CategoryList")*@
+        @await Component.InvokeAsync("CategoryList")
     </div>
     <div class="col-md-10">
         @if (TempData["message"] != null)
@@ -50,7 +50,6 @@
         }
         @RenderBody()
     </div>
-    <div class="col-md-12">Footer</div>
+    <div class="col-md-12"></div>
 </body>
 </html>
-

@@ -82,3 +82,6 @@ C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwin
 C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Demo.Northwind.MvcUI.csproj.CopyComplete
 C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Demo.Northwind.MvcUI.dll
 C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Demo.Northwind.MvcUI.pdb
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\TOSHIBA\Documents\GitHub\ASP.NET-Core-MVC\DemoCoreProject\Demo.Northwind.MvcUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserSummary\Default.g.cshtml.cs

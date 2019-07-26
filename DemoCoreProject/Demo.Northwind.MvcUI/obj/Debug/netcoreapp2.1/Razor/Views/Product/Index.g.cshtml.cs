@@ -94,7 +94,7 @@ namespace AspNetCore
             WriteLiteral("</td>\r\n                <td>");
             EndContext();
             BeginContext(553, 135, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f9b2863bd6c4e01a7caed664885d703", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d7a1f73c752248468c2d243dbe23a4a7", async() => {
                 BeginContext(673, 11, true);
                 WriteLiteral("add to cart");
                 EndContext();
